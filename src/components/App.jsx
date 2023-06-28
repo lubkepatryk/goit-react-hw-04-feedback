@@ -1,3 +1,4 @@
+import React from 'react';
 import Feedback from './Feedback/Feedback';
 
 export const App = () => {
@@ -16,3 +17,5 @@ export const App = () => {
     </div>
   );
 };
+
+export default App;
